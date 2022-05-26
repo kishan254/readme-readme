@@ -1,0 +1,30 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Readme generator command line application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishan254/GenerateMyReadMe"
+  },
+  "keywords": [
+    "git",
+    "readme"
+  ],
+  "author": "Kish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kishan254/GenerateMyReadMe/issues"
+  },
+  "homepage": "https://github.com/kishan254/GenerateMyReadMe#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {}
+}
