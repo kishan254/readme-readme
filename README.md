@@ -10,9 +10,7 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
 
-# WALK THROUGH VIDEO!
 
-![Video](images/generate-my-readme.gif)
 
 # Description 
 ### This is an app that is created for developers to create a quick readme.md file for their projects

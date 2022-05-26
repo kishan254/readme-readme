@@ -106,9 +106,6 @@ ${badgeIcon}
 * [Tests](#Tests)
 * [Questions](#Questions)
 
-# WALK THROUGH VIDEO!
-
-![Video](images/generate-my-readme.gif)
 
 # Description 
 ### ${description}
