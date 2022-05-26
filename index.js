@@ -106,6 +106,9 @@ ${badgeIcon}
 * [Tests](#Tests)
 * [Questions](#Questions)
 
+# WALK THROUGH VIDEO!
+
+![Video](images/readme.gif)
 
 # Description 
 ### ${description}
