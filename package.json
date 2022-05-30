@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kishan254/GenerateMyReadMe"
+    "url": "git+https://github.com/kishan254/readme-readme"
   },
   "keywords": [
     "git",
@@ -17,10 +17,6 @@
   ],
   "author": "Kish",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kishan254/GenerateMyReadMe/issues"
-  },
-  "homepage": "https://github.com/kishan254/GenerateMyReadMe#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "inquirer": "^7.3.3",
